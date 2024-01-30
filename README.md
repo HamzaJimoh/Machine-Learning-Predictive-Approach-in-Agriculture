@@ -1,1 +1,4 @@
 # Machine-Learning-Predictive-Approach-in-Agriculture
+Utilizing Predictive Machine Learning for Enhancing Maize Crop Yield and Agronomic Traits in International Maize Trials within Nigeria
+
+The research project centers on the application of predictive machine learning techniques to optimize grain yield and various agronomic characteristics in international maize trials conducted in Nigeria. Maize (Zea mays L.) holds paramount importance as a staple food crop, not only on the African continent but also globally. It serves as a vital source of raw materials for livestock and various agro-related industries (Bello et al., 2010; Randjelovic et al., 2011). Nigeria's savanna agro-ecological conditions offer immense potential for food production, largely attributed to the abundant solar radiation that fosters maize development.
